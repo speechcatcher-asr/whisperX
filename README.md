@@ -107,7 +107,7 @@ pip install git+https://github.com/speechcatcher-asr/whisperX --upgrade
 #### Option C: Development Mode
 If you wish to modify the package, clone and install in editable mode:
 ```bash
-git clone https://github.com/m-bain/whisperX.git
+git clone https://github.com/speechcatcher-asr/whisperX
 cd whisperX
 pip install -e .
 ```
