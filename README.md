@@ -95,13 +95,13 @@ pip install whisperx
 Install the latest development version directly from GitHub (may be unstable):
 
 ```bash
-pip install git+https://github.com/m-bain/whisperx.git
+pip install git+https://github.com/speechcatcher-asr/whisperX
 ```
 
 If already installed, update to the most recent commit:
 
 ```bash
-pip install git+https://github.com/m-bain/whisperx.git --upgrade
+pip install git+https://github.com/speechcatcher-asr/whisperX --upgrade
 ```
 
 #### Option C: Development Mode
