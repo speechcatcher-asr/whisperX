@@ -1,7 +1,8 @@
 torch>=2
 torchaudio>=2
 faster-whisper==1.1.0
-ctranslate2<4.5.0
+faster-whisper @ git+https://github.com/SYSTRAN/faster-whisper
+ctranslate2
 transformers
 pandas
 setuptools>=65
